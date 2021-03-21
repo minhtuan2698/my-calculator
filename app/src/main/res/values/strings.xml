@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cal_basic">Calculator Basic</string>
+    <string name="chuyen_coso">Chuyen Co So</string>
+    <string name="calculator">Calculator</string>
+</resources>
